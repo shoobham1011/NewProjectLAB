@@ -3,6 +3,6 @@
 height = int(input('enter the number'))
 length = int(input('enter the number'))
 
-Area = height * length//2
+area = height * length//2
 
-print(f'The area of right angled triangle is {Area}')
+print(f'The area of right angled triangle is {area}')
