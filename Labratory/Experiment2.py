@@ -5,4 +5,4 @@ length = int(input('enter the number'))
 
 area = height * length//2
 
-print(f'The area of right angled triangle is {area}')
+print(f'Area of right angled triangle is {area}.')
