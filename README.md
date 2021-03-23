@@ -39,7 +39,7 @@ area of circle = pi * r**2
 
 
 8. write the python program to find sum of first n positive number
-sum = (n*(n+1))/2
+sum = (n*(n+1))/2 .
 
 
 
