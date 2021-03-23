@@ -7,6 +7,7 @@ Given the integer N - the number of minutes that is passed since midnight -
  how many hours and minutes are displayed on the 24h digital clock?
 The program should print two numbers: the number of hrs (between 0 and 23) and the number of minutes (between 0 and 59).
 '''
+\
 '''
 A school decided to replace the desks in three classrooms.
 Each desk sits two students. Given the number of student in each class, print the smallest possible number of desks that can be purchased.
